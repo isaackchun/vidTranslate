@@ -6,7 +6,7 @@ import six
 from google.cloud import translate_v2 as translate
 
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ServiceAccountToken.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'Enter your service account token here'
 
 
 vision_client = vision_v1.ImageAnnotatorClient()
