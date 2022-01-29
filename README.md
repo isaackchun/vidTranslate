@@ -1,7 +1,9 @@
 # vidTranslate
 
 This is a program that translates the detected texts from videos to English
+
 This program could be used for situation like:
+  
   Japanese vlog contains a Japanese menu that doesn't have English description
 
 
